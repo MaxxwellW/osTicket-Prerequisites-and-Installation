@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Attempt to launch through various steps of coniguration
 -Will have to use control panel to attempt launch
 
-  -PHP Manager
+  -PHPManagerForIIS_V1.5.0.msi
   
   -VC_redist.x86.exe
   
