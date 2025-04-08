@@ -45,7 +45,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img
+<img https://i.imgur.com/teQ7FSV.png 
 </p>
 <p>
 Download osTicket files
@@ -199,29 +199,3 @@ Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 </p>
 Clean up: Delete: C:\inetpub\wwwroot\osTicket\setup -> Set Permissions to “Read” only -> C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
-https://i.imgur.com/teQ7FSV.png
-https://i.imgur.com/0Op1O96.png
-https://i.imgur.com/30BKJ1L.png
-https://i.imgur.com/XUoPVNY.png
-https://i.imgur.com/P5tB1LR.png
-https://i.imgur.com/7lXgyVV.png
-https://i.imgur.com/Zl9sGYx.png
-https://i.imgur.com/N4ciLXd.png
-https://i.imgur.com/DQmnGcL.png
-https://i.imgur.com/LjtxHZi.png
-
-https://i.imgur.com/dz7Qt0w.png
-
-https://i.imgur.com/ch3hQmf.png
-
-https://i.imgur.com/ZcQwMhy.png
-
-https://i.imgur.com/DKvBmhK.png
-
-https://i.imgur.com/1pc5TC2.png
-
-https://i.imgur.com/1pPCLoY.png
-
-https://i.imgur.com/RE5F90P.png
-
-https://i.imgur.com/1tsNS1R.png
