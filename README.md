@@ -18,10 +18,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
+- An able CPU (Windows 10) or use of a Virtual Machine
+- extract zip files from Doc https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
+- Attempt to launch through various steps of coniguration
+  -Will have to use control panel to attempt launch
+  -PHP Manager
+  -VC...86
+  -Rewire
+  -MySQL
+  -osTicket...15.8
+- 
 - Item 5
 
 <h2>Installation Steps</h2>
