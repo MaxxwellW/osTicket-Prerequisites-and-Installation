@@ -129,7 +129,7 @@ Install osTicket v1.15.8 -> From the “osTicket-Installation-Files” folder, u
 Reload IIS (Open IIS, Stop and Start the server)
   
 </p>
-<img ![Browse80](https://github.com/user-attachments/assets/e9d5e743-734f-49f9-9984-ca2cc19e1998)
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Browse80.png"
 </p>
 <p> 
 Go to sites -> Default -> osTicket
