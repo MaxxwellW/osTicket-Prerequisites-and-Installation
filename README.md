@@ -134,21 +134,29 @@ Password: root
 Open IIS as an Admin -> Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe) -> Reload IIS (Open IIS, Stop and Start the server)
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/slih0hM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p>
+<img src="https://i.imgur.com/cz6SFpm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 Install osTicket v1.15.8 -> From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” -> copy the “upload” folder into “c:\inetpub\wwwroot” -> Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 Reload IIS (Open IIS, Stop and Start the server)
   
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vY50wpY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/NfrUfmv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ARNeQKx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Some extensions are not enabled
@@ -158,30 +166,40 @@ Some extensions are not enabled
   - Enable: php_imap.dll
   - Enable: php_intl.dll
   - Enable: php_opcache.dll
+
+<img src="https://i.imgur.com/vTCrxI5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Refresh the osTicket site in your browser, observe the changes
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3JpYdh7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
 Rename: ost-config.php From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+<p>
+<img src="https://i.imgur.com/cuA9pIj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Assign Permissions: ost-config.php -> Disable inheritance -> Remove All New Permissions -> Everyone -> All
+<p>
+<img src="https://i.imgur.com/zu4yLoR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CROmhzg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Assign Permissions: ost-config.php -> Disable inheritance -> Remove All New Permissions -> Everyone -> All
+
+Continue Setting up osTicket in the browser (click Continue)
+Name Helpdesk
+Default email (receives email from customers)
 
 <p>
 <img src="https://i.imgur.com/niVHnN4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Continue Setting up osTicket in the browser (click Continue)
-Name Helpdesk
-Default email (receives email from customers)
+
 
 <p>
 <img src="https://i.imgur.com/8i3Rkjg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -193,7 +211,8 @@ From the “osTicket-Installation-Files” folder -> install HeidiSQL -> Open He
 <img src="https://i.imgur.com/EmILzXn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Type here......
+
+
 <p>
 <img src="https://i.imgur.com/cnBDV7u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
