@@ -194,20 +194,19 @@ Click “Install Now!”
 Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
-<img src=:https://i.imgur.com/teQ7FSV.png>
-
+<img src=https://i.imgur.com/teQ7FSV.png
 </p>
 Clean up: Delete: C:\inetpub\wwwroot\osTicket\setup -> Set Permissions to “Read” only -> C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 
-https://i.imgur.com/0Op1O96.png
-https://i.imgur.com/30BKJ1L.png
-https://i.imgur.com/XUoPVNY.png
-https://i.imgur.com/P5tB1LR.png
-https://i.imgur.com/7lXgyVV.png
-https://i.imgur.com/Zl9sGYx.png
-https://i.imgur.com/N4ciLXd.png
-https://i.imgur.com/DQmnGcL.png
+<img src=https://i.imgur.com/0Op1O96.png 
+<img src=https://i.imgur.com/30BKJ1L.png 
+<img src=https://i.imgur.com/XUoPVNY.png 
+<img src=https://i.imgur.com/P5tB1LR.png 
+<img src=https://i.imgur.com/7lXgyVV.png 
+<img src=https://i.imgur.com/Zl9sGYx.png 
+<img src=https://i.imgur.com/N4ciLXd.png 
+<img src=https://i.imgur.com/DQmnGcL.png 
 https://i.imgur.com/LjtxHZi.png
 https://i.imgur.com/dz7Qt0w.png
 https://i.imgur.com/ch3hQmf.png
