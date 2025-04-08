@@ -136,9 +136,9 @@ Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
 </p>
-<img
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Need more Requ.png"
 </p>
-<p> 
+<p>
 Some extensions are not enabled
   - Go back to IIS, sites -> Default -> osTicket
   - Double-click PHP Manager
@@ -147,3 +147,51 @@ Some extensions are not enabled
   - Enable: php_intl.dll
   - Enable: php_opcache.dll
 Refresh the osTicket site in your browser, observe the changes
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Add ext.png"
+
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Reuq Done.png"
+
+</p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\rename and configure.png"
+</p>
+<p>
+Rename: ost-config.php From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+</p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\diable inheritance.png" "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Inherited.png" 
+</p>
+<p>
+Assign Permissions: ost-config.php -> Disable inheritance -> Remove All New Permissions -> Everyone -> All
+
+</p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\configure info.png"
+</p>
+<p>
+Continue Setting up osTicket in the browser (click Continue)
+Name Helpdesk
+Default email (receives email from customers)
+
+</p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\downloadSQL89.png"
+</p>
+<p>
+From the “osTicket-Installation-Files” folder -> install HeidiSQL -> Open Heidi SQL -> Create a new session, root/root -> Connect to the session -> Create a database called “osTicket”
+
+</p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\SQLDownloaded.png"
+</p>
+<p>
+Continue Setting up osTicket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: root
+Click “Install Now!”
+
+</p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\osTicket rename.png" "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\successful rename.png"
+</p>
+<p>
+Congratulations, hopefully it is installed with no errors!
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\complete congrats.png"
