@@ -195,3 +195,7 @@ Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
 <img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\complete congrats.png"
+
+</p>
+Clean up: Delete: C:\inetpub\wwwroot\osTicket\setup -> Set Permissions to “Read” only -> C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
