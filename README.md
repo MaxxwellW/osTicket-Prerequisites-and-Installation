@@ -120,3 +120,22 @@ Password: root
 </p>
 <p> 
 Open IIS as an Admin -> Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe) -> Reload IIS (Open IIS, Stop and Start the server)
+
+</p>
+<img  "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\osTicket rename.png"
+</p>
+<p> 
+Install osTicket v1.15.8 -> From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” -> copy the “upload” folder into “c:\inetpub\wwwroot” -> Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+
+</p>
+<img
+</p>
+<p> 
+Some extensions are not enabled
+  - Go back to IIS, sites -> Default -> osTicket
+  - Double-click PHP Manager
+  - Click “Enable or disable an extension”
+  - Enable: php_imap.dll
+  - Enable: php_intl.dll
+  - Enable: php_opcache.dll
+Refresh the osTicket site in your browser, observe the changes
