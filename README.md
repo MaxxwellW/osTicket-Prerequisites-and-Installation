@@ -114,3 +114,9 @@ Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration ->
 Username: root
 Password: root
+
+</p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\php-cgi work.png"
+</p>
+<p> 
+Open IIS as an Admin -> Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe) -> Reload IIS (Open IIS, Stop and Start the server)
