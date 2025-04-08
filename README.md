@@ -238,6 +238,3 @@ Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 <img src="https://i.imgur.com/dmUReAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
-Clean up: Delete: C:\inetpub\wwwroot\osTicket\setup -> Set Permissions to “Read” only -> C:\inetpub\wwwroot\osTicket\include\ost-config.php
-
-
