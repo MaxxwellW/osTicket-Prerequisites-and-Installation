@@ -45,31 +45,31 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Install osTicket Files.png" 
+<img
 </p>
 <p>
 Download osTicket files
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Installed osTicket Files.png"
+<img 
 </p>
 <p>
 Downloaded osTicket files
 
 <p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Extract osTicket-v1.15.8.zip Action.png"  "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\osTicket-v1.15.8.zip completed.png"
+<img 
 </p>
 <p>
 Extract osTicket-v1.15.8.zip from the desktop
   
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\visual that IIS isnt working.png"
+<img 
 </p>
 <p>
 Use Loopback to try the webserver
 
 <p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\CGI config.png"
+<img 
 </p>
 <p>
 Enable IIS in Windows WITH CGI
@@ -77,37 +77,37 @@ World Wide Web Services -> Application Development Features -> [X] CG
 <br />
 
 <p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Create PHP Directory.png"
+<img 
 </p>
 <p>
 Create Directory for PHPManagerForIIS_V1.5.0.msi 
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Extraxt to Directory.png"
+<img 
 </p>
 <p>
 Extract PHPManagerForIIS_V1.5.0.msi into Directory to Install
 
 <p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\PHPManagerForIIS_V1.5.0.msi Download.png"
+<img 
 </p>
 <p>
 Download PHPManagerForIIS_V1.5.0.msi
 
 <p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\(rewrite_amd64_en-US.msi Download.png"
+<img 
 </p>
 <p>
 Download rewrite_amd64_en-US.msi
 
 <p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Extract VC_redist.x86.exe to c.png"
+<img 
 </p>
 <p>
 Install VC_redist.x86.exe
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Installing MySQL 5.5.62.png" "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Installed VC_redist.x86.png"
+<img
 </p>
 <p> 
 Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
@@ -116,27 +116,27 @@ Username: root
 Password: root
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\php-cgi work.png" "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\refresh & restart.png" 
+<img 
 </p>
 <p> 
 Open IIS as an Admin -> Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe) -> Reload IIS (Open IIS, Stop and Start the server)
 
 </p>
-<img  "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\osTicket rename.png" "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\refresh & restart.png"
+<img  
 </p>
 <p> 
 Install osTicket v1.15.8 -> From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” -> copy the “upload” folder into “c:\inetpub\wwwroot” -> Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
 Reload IIS (Open IIS, Stop and Start the server)
   
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Browse80.png"
+<img 
 </p>
 <p> 
 Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Need more Requ.png"
+<img 
 </p>
 <p>
 Some extensions are not enabled
@@ -147,24 +147,24 @@ Some extensions are not enabled
   - Enable: php_intl.dll
   - Enable: php_opcache.dll
 Refresh the osTicket site in your browser, observe the changes
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Add ext.png"
+<img 
 
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Reuq Done.png"
+<img 
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\rename and configure.png"
+<img 
 </p>
 <p>
 Rename: ost-config.php From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\diable inheritance.png" "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Inherited.png" 
+<img  
 </p>
 <p>
 Assign Permissions: ost-config.php -> Disable inheritance -> Remove All New Permissions -> Everyone -> All
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\configure info.png"
+<img 
 </p>
 <p>
 Continue Setting up osTicket in the browser (click Continue)
@@ -172,13 +172,13 @@ Name Helpdesk
 Default email (receives email from customers)
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\downloadSQL89.png"
+<img 
 </p>
 <p>
 From the “osTicket-Installation-Files” folder -> install HeidiSQL -> Open Heidi SQL -> Create a new session, root/root -> Connect to the session -> Create a database called “osTicket”
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\SQLDownloaded.png"
+<img 
 </p>
 <p>
 Continue Setting up osTicket in the browser
@@ -188,13 +188,13 @@ MySQL Password: root
 Click “Install Now!”
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\osTicket rename.png" "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\successful rename.png"
+<img 
 </p>
 <p>
 Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\complete congrats.png"
+<img 
 
 </p>
 Clean up: Delete: C:\inetpub\wwwroot\osTicket\setup -> Set Permissions to “Read” only -> C:\inetpub\wwwroot\osTicket\include\ost-config.php
