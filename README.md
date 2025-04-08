@@ -49,8 +49,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Download osTicket files
+
 </p>
-<br />
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Installed osTicket Files.png"
+</p>
+<p>
+Downloaded osTicket files
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
