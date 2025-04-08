@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   -PHP Manager
   
-  -VC...86
+  -VC_redist.x86.exe
   
   -Rewire
   
