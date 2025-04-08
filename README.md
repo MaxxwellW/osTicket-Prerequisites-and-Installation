@@ -217,7 +217,7 @@ From the “osTicket-Installation-Files” folder -> install HeidiSQL -> Open He
 <img src="https://i.imgur.com/cnBDV7u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Type here......
+
 Continue Setting up osTicket in the browser
 MySQL Database: osTicket
 MySQL Username: root
@@ -228,7 +228,7 @@ Click “Install Now!”
 <img src="https://i.imgur.com/T4y7xRZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Type here......
+
 </p>
 <br />
 Congratulations, hopefully it is installed with no errors!
