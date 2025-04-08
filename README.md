@@ -57,11 +57,19 @@ Download osTicket files
 Downloaded osTicket files
 
 <p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Extract osTicket-v1.15.8.zip Action.png" 
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Extract osTicket-v1.15.8.zip Action.png"  "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\osTicket-v1.15.8.zip completed.png"
 </p>
 <p>
 Extract osTicket-v1.15.8.zip from the desktop
+  
 </p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\visual that IIS isnt working.png"
+</p>
+<p>
+Use Loopback to try the webserver
+
+<p>
+<img   
 <br />
 
 <p>
