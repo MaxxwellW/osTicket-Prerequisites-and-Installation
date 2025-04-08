@@ -45,41 +45,47 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0dKkroD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IU7xUFM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download osTicket files
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H2oclwr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Downloaded osTicket files
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8QCLhpT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Extract osTicket-v1.15.8.zip from the desktop
   
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vG5Twfr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Use Loopback to try the webserver
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0LTOeOE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Enable IIS in Windows WITH CGI
 World Wide Web Services -> Application Development Features -> [X] CG
 <br />
+Reload URL to sow IIS is fucntional
+<p>
+<img src="https://i.imgur.com/H1dyL27.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
+Now it is time to configure 
 <p>
 <img src="https://i.imgur.com/SIaViSc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -168,7 +174,7 @@ Rename: ost-config.php From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfi
 Assign Permissions: ost-config.php -> Disable inheritance -> Remove All New Permissions -> Everyone -> All
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/niVHnN4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Continue Setting up osTicket in the browser (click Continue)
@@ -176,18 +182,18 @@ Name Helpdesk
 Default email (receives email from customers)
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8i3Rkjg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From the “osTicket-Installation-Files” folder -> install HeidiSQL -> Open Heidi SQL -> Create a new session, root/root -> Connect to the session -> Create a database called “osTicket”
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EmILzXn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Type here......
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cnBDV7u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Type here......
@@ -198,7 +204,7 @@ MySQL Password: root
 Click “Install Now!”
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T4y7xRZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Type here......
@@ -207,8 +213,9 @@ Type here......
 Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
-![image](https://github.com/user-attachments/assets/40ca8b77-5ae0-4e7d-952e-223a340d63c3)
- 
+<p>
+<img src="https://i.imgur.com/dmUReAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 </p>
 Clean up: Delete: C:\inetpub\wwwroot\osTicket\setup -> Set Permissions to “Read” only -> C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
