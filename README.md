@@ -69,7 +69,11 @@ Extract osTicket-v1.15.8.zip from the desktop
 Use Loopback to try the webserver
 
 <p>
-<img   
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\CGI config.png"
+</p>
+<p>
+Enable IIS in Windows WITH CGI
+World Wide Web Services -> Application Development Features -> [X] CG
 <br />
 
 <p>
