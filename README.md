@@ -88,6 +88,18 @@ Create Directory for PHPManagerForIIS_V1.5.0.msi
 <p>
 Extract PHPManagerForIIS_V1.5.0.msi into Directory to Install
 
+<p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\PHPManagerForIIS_V1.5.0.msi Download.png"
+</p>
+<p>
+Download PHPManagerForIIS_V1.5.0.msi
+
+<p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\(rewrite_amd64_en-US.msi Download.png"
+</p>
+<p>
+Download rewrite_amd64_en-US.msi
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
