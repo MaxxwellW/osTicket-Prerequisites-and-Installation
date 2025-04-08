@@ -33,8 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
   -osTicket...15.8
   
-- 
-- Item 5
+- Launch URL 
 
 <h2>Installation Steps</h2>
 
