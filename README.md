@@ -46,6 +46,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src=https://i.imgur.com/teQ7FSV.png 
+
 </p>
 <p>
 Download osTicket files
@@ -188,31 +189,15 @@ MySQL Password: root
 Click “Install Now!”
 
 </p>
-<img 
+<img ![image](https://github.com/user-attachments/assets/377e21d1-8603-4a3b-81b7-76dd1f025d60)
+
 </p>
 <p>
 Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
-<img src=https://i.imgur.com/teQ7FSV.png
+<img https://i.imgur.com/XPx0P9x.png 
 </p>
 Clean up: Delete: C:\inetpub\wwwroot\osTicket\setup -> Set Permissions to “Read” only -> C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 
-<img src=https://i.imgur.com/0Op1O96.png 
-<img src=https://i.imgur.com/30BKJ1L.png 
-<img src=https://i.imgur.com/XUoPVNY.png 
-<img src=https://i.imgur.com/P5tB1LR.png 
-<img src=https://i.imgur.com/7lXgyVV.png 
-<img src=https://i.imgur.com/Zl9sGYx.png 
-<img src=https://i.imgur.com/N4ciLXd.png 
-<img src=https://i.imgur.com/DQmnGcL.png 
-https://i.imgur.com/LjtxHZi.png
-https://i.imgur.com/dz7Qt0w.png
-https://i.imgur.com/ch3hQmf.png
-https://i.imgur.com/ZcQwMhy.png
-https://i.imgur.com/DKvBmhK.png
-https://i.imgur.com/1pc5TC2.png
-https://i.imgur.com/1pPCLoY.png
-https://i.imgur.com/RE5F90P.png 
-https://i.imgur.com/1tsNS1R.png
