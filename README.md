@@ -44,6 +44,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+Download osTicket files
 <p>
 <img src="https://i.imgur.com/0dKkroD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -52,34 +53,35 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/IU7xUFM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download osTicket files
+Downloaded osTicket files
 
 <p>
 <img src="https://i.imgur.com/H2oclwr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Downloaded osTicket files
 
+Extract osTicket-v1.15.8.zip from the desktop
 <p>
 <img src="https://i.imgur.com/8QCLhpT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Extract osTicket-v1.15.8.zip from the desktop
-  
+
+Use Loopback to try the webserver  
 <p>
 <img src="https://i.imgur.com/vG5Twfr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Use Loopback to try the webserver
+
+Enable IIS in Windows WITH CGI
+World Wide Web Services -> Application Development Features -> [X] CG
+<br />
 
 <p>
 <img src="https://i.imgur.com/0LTOeOE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Enable IIS in Windows WITH CGI
-World Wide Web Services -> Application Development Features -> [X] CG
-<br />
-Reload URL to sow IIS is fucntional
+Reload URL to show IIS is fucntional
+
 <p>
 <img src="https://i.imgur.com/H1dyL27.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
