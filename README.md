@@ -77,6 +77,17 @@ World Wide Web Services -> Application Development Features -> [X] CG
 <br />
 
 <p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Create PHP Directory.png"
+</p>
+<p>
+Create Directory for PHPManagerForIIS_V1.5.0.msi 
+
+</p>
+<img 
+</p>
+<p>
+Use Loopback to try the webserver
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
