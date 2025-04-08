@@ -122,10 +122,18 @@ Password: root
 Open IIS as an Admin -> Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe) -> Reload IIS (Open IIS, Stop and Start the server)
 
 </p>
-<img  "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\osTicket rename.png"
+<img  "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\osTicket rename.png" "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\refresh & restart.png"
 </p>
 <p> 
 Install osTicket v1.15.8 -> From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” -> copy the “upload” folder into “c:\inetpub\wwwroot” -> Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
+Reload IIS (Open IIS, Stop and Start the server)
+  
+</p>
+<img ![Browse80](https://github.com/user-attachments/assets/e9d5e743-734f-49f9-9984-ca2cc19e1998)
+</p>
+<p> 
+Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
 
 </p>
 <img
