@@ -179,7 +179,8 @@ Default email (receives email from customers)
 From the “osTicket-Installation-Files” folder -> install HeidiSQL -> Open Heidi SQL -> Create a new session, root/root -> Connect to the session -> Create a database called “osTicket”
 
 </p>
-<img 
+<img sec=![image](https://github.com/user-attachments/assets/5948a9a9-18d9-418a-8e54-c5177d92569b)
+
 </p>
 <p>
 Continue Setting up osTicket in the browser
@@ -189,14 +190,14 @@ MySQL Password: root
 Click “Install Now!”
 
 </p>
-<img ![image](https://github.com/user-attachments/assets/377e21d1-8603-4a3b-81b7-76dd1f025d60)
 
 </p>
 <p>
 Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
-<img https://i.imgur.com/XPx0P9x.png 
+![image](https://github.com/user-attachments/assets/40ca8b77-5ae0-4e7d-952e-223a340d63c3)
+ 
 </p>
 Clean up: Delete: C:\inetpub\wwwroot\osTicket\setup -> Set Permissions to “Read” only -> C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
