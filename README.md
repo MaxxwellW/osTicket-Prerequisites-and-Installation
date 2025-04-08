@@ -22,21 +22,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - extract zip files from Doc 
 - Attempt to launch through various steps of coniguration
 
--Will have to use control panel to attempt to launch osTicket
+- Will have to use control panel to attempt to launch osTicket
 
-  -https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD to be downloaded and extracted
+  - https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD to be downloaded and extracted
 
-  -PHPManagerForIIS_V1.5.0.msi to Install
+  - PHPManagerForIIS_V1.5.0.msi to Install
 
-  -rewrite_amd64_en-US.msi to Install
+  - rewrite_amd64_en-US.msi to Install
   
-  -php-7.3.8-nts-Win32-VC15-x86.zip to Unzip
+  - php-7.3.8-nts-Win32-VC15-x86.zip to Unzip
   
-  =VC_redist.x86.exe to Install
+  - VC_redist.x86.exe to Install
   
-  -mysql-5.5.62-win32.msi to Install
+  - mysql-5.5.62-win32.msi to Install
   
-  -osTicket-v1.15.8.zip to Unzip
+  - osTicket-v1.15.8.zip to Unzip
 
   - HeidiSQL to install
   
