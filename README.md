@@ -45,7 +45,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img https://i.imgur.com/teQ7FSV.png 
+<img src=https://i.imgur.com/teQ7FSV.png 
 </p>
 <p>
 Download osTicket files
