@@ -19,21 +19,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - An able CPU (Windows 10) or use of a Virtual Machine
-- extract zip files from Doc https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
+- extract zip files from Doc 
 - Attempt to launch through various steps of coniguration
--Will have to use control panel to attempt launch
 
-  -PHPManagerForIIS_V1.5.0.msi
+-Will have to use control panel to attempt to launch osTicket
+
+  -https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD to be downloaded and extracted
+
+  -PHPManagerForIIS_V1.5.0.msi to Install
+
+  -rewrite_amd64_en-US.msi to Install
   
-  -VC_redist.x86.exe
+  -php-7.3.8-nts-Win32-VC15-x86.zip to Unzip
   
-  -Rewire
+  =VC_redist.x86.exe to Install
   
-  -MySQL
+  -mysql-5.5.62-win32.msi to Install
   
-  -osTicket...15.8
+  -osTicket-v1.15.8.zip to Unzip
+
+  - HeidiSQL to install
   
-- Launch URL 
+- Attempt to Launch URL  http://localhost/osTicket/scp/login.php
 
 <h2>Installation Steps</h2>
 
