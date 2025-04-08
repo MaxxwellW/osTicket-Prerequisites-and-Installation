@@ -73,7 +73,7 @@ Use Loopback to try the webserver
 <p>
 
 Enable IIS in Windows WITH CGI
-World Wide Web Services -> Application Development Features -> [X] CG
+World Wide Web Services -> Application Development Features -> [X] CGI
 <br />
 
 <p>
