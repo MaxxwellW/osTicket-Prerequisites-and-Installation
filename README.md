@@ -116,7 +116,7 @@ Username: root
 Password: root
 
 </p>
-<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\php-cgi work.png"
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\php-cgi work.png" "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\refresh & restart.png" 
 </p>
 <p> 
 Open IIS as an Admin -> Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe) -> Reload IIS (Open IIS, Stop and Start the server)
