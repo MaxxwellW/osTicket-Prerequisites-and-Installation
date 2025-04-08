@@ -100,9 +100,17 @@ Download PHPManagerForIIS_V1.5.0.msi
 <p>
 Download rewrite_amd64_en-US.msi
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Extract VC_redist.x86.exe to c.png"
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install VC_redist.x86.exe
+
 </p>
-<br />
+<img "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Installing MySQL 5.5.62.png" "C:\Users\dell\OneDrive\Pictures\osTicket Install Repo\Installed VC_redist.x86.png"
+</p>
+<p> 
+Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration ->
+Username: root
+Password: root
